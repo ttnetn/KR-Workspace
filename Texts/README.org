@@ -1,0 +1,2 @@
+* KR-Workspace/Texts
+A space for lists of texts you are working with.
